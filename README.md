@@ -4,7 +4,7 @@ Fast c compiler is a little bash script to make execution in c as easy as in pyt
 
 Here is what it looks like once set up on "Hello, world !" code.
 
-![1571741645161](/home/aton/.config/Typora/typora-user-images/1571741645161.png)
+![Alt text](./1571741645161.png)
 
 
 
@@ -29,3 +29,4 @@ sudo mv c /bin
 ![1571743406333](/home/aton/.config/Typora/typora-user-images/1571743406333.png)
 
 **Note**:  Your c file has to have the .c extension et will be output as a .o
+
