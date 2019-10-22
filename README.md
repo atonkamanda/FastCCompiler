@@ -29,4 +29,3 @@ sudo mv c /bin
 ![1571743406333](/home/aton/.config/Typora/typora-user-images/1571743406333.png)
 
 **Note**:  Your c file has to have the .c extension et will be output as a .o
-
