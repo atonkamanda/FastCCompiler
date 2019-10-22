@@ -26,7 +26,7 @@ sudo mv c /bin
 
 **4)** Enjoy, issue me if you want to set up some new colors.
 
-![Osef ? ](./1571743406333.png)
+![Alt text](./1571743406333.png)
 
 **Note**:  Your c file has to have the .c extension et will be output as a .o
 
