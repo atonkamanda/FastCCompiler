@@ -26,7 +26,7 @@ sudo mv c /bin
 
 **4)** Enjoy, issue me if you want to set up some new colors.
 
-![1571743406333](/home/aton/.config/Typora/typora-user-images/1571743406333.png)
+![Osef ? ](./1571743406333.png)
 
 **Note**:  Your c file has to have the .c extension et will be output as a .o
 
