@@ -13,7 +13,7 @@ Here is what it looks like once set up on "Hello, world !" code.
 **1)** Clone this repo by doing the following in your terminal
 
 ```bash
-git clone 
+git clone https://github.com/atonkamanda/FastCCompiler 
 ```
 
 **2)** Get into the cloned directory (you should see Fast c compiler when typing "pwd"  in your terminal )
