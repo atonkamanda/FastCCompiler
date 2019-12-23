@@ -1,6 +1,6 @@
-# Fast c compiler
+# Fast C compiler
 
-Fast c compiler is a little bash script to make execution in c as easy as in python.
+Fast C compiler is a little bash script to make execution in c as easy as in python.
 
 Here is what it looks like once set up on "Hello, world !" code.
 
@@ -16,7 +16,7 @@ Here is what it looks like once set up on "Hello, world !" code.
 git clone https://github.com/atonkamanda/FastCCompiler 
 ```
 
-**2)** Get into the cloned directory (you should see Fast c compiler when typing "pwd"  in your terminal )
+**2)** Get into the cloned directory (you should see /FastCCompiler when typing "pwd"  in your terminal )
 
 **3)** type the following and type password 
 
